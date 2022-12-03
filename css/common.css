@@ -22,3 +22,13 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+.photo {
+  display: block;
+  width: 350px;
+  height: 250px;
+  object-fit: cover;
+  padding: 10px;
+  border-radius: 20px;
+  overflow: hidden;
+}
